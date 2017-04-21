@@ -199,7 +199,7 @@ public class Game extends AppCompatActivity {
         }
     }// แสดงผลคำถามบนหน้า xml
 
-    public void playsound(View view){
+    public void playSound (View view){
         animalMediaPlayer.start();
     }
 
